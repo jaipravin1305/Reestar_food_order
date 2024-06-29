@@ -1,0 +1,75 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.interface{
+    background-color: black;
+    color: rgb(105, 99, 99);
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 12px;
+}
+
+.interface__name{
+    color: white;
+}
+
+.card__one{
+    border: solid 3px black;
+    display: inline-block;
+    width: 200px;
+}
+.card
+{
+    text-align: center;
+    margin: 10px 0px;
+}
+
+.card__desc
+{
+    margin: 3px 0;
+}
+.card__button
+{
+    background-color: black;
+    color: white;
+    padding: 5px;
+}
+.card__image
+{
+    height: 300px;
+    width: 200px;
+}
+
+.footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.footer__input
+{
+    padding: 2px;
+}
+.footer__title
+{
+    padding: 10px 0 5px 0;
+}
+.footer__button
+{
+    background-color: yellow;
+    color: black;
+    padding: 5px 15%;
+    margin: 0 0 10px 0;
+}
+.footer__table
+{
+    display: inline-block;
+}
+
+/* .__send{
+    background-color: yellow;
+    color: black;
+    width: 200px;
+} */
